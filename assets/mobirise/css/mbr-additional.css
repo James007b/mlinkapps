@@ -1375,9 +1375,10 @@ body {
 .cid-qUyw8TbrW0 {
   background: linear-gradient(45deg, #7fd9fc, #6576aa);
 }
-.cid-qUyHxrZuus {
+.cid-qW3NBKIxai {
   background: linear-gradient(45deg, #7fd9fc, #6576aa);
 }
-.cid-qVYIh1ksI2 {
-  background: linear-gradient(45deg, #7fd9fc, #6576aa);
+.cid-qW3NBKIxai .mbr-text,
+.cid-qW3NBKIxai .mbr-section-btn {
+  color: #ffffff;
 }
